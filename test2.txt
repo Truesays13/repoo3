@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6433-2D23
+
+ Directory of C:\Users\fns\Desktop\my project 1
+
+24-01-2022  10:40    <DIR>          .
+24-01-2022  10:40    <DIR>          ..
+24-01-2022  10:40                 0 test2.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  182,681,628,672 bytes free
